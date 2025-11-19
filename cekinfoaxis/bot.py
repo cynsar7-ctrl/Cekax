@@ -4,7 +4,7 @@ from telegram import Update
 from telegram.ext import ApplicationBuilder, CommandHandler, ContextTypes
 
 # =============== YOUR TOKEN ===================
-BOT_TOKEN = "YOUR_TELEGRAM_BOT_TOKEN"
+BOT_TOKEN = "8273797655:AAGFjB7px-1XprLNR_6QNUWuqIFW_qm2owM"
 # ==============================================
 
 logging.basicConfig(
